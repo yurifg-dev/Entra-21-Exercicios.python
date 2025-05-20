@@ -1,1 +1,1 @@
-# Entra-21-Exerc-cios.python
+# Entra-21-Exercicios.python
